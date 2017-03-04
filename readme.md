@@ -1,1 +1,1 @@
-## This is my V4L2 code about my Zedboard. 
+## This is my V4L2 code on my Zedboard. 
